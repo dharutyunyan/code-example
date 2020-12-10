@@ -1,0 +1,18 @@
+{
+  "name": "Digital Menu",
+  "short_name": "DGM",
+  "description": "Digital Menu Tralalala.",
+  "display": "standalone",
+  "theme_color":"#000",
+  "background_color":"#fff",
+  "start_url":"/",
+  "version": "0.1",
+  "manifest_version": 2,
+  "icons": [
+      {
+          "src": "src/img/icons/main_icon.png",
+          "sizes": "144x144",
+          "purpose": "any maskable"
+      }
+  ]
+}
